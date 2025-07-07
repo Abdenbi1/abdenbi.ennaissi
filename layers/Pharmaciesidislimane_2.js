@@ -1,0 +1,30 @@
+var json_Pharmaciesidislimane_2 = {
+"type": "FeatureCollection",
+"name": "Pharmaciesidislimane_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Pharmacie Ghoumaryene" }, "geometry": { "type": "Point", "coordinates": [ -5.933306132999974, 34.255663010000035 ] } },
+{ "type": "Feature", "properties": { "Name": "Pharmacie Lamrini" }, "geometry": { "type": "Point", "coordinates": [ -5.922303957999929, 34.259748329000047 ] } },
+{ "type": "Feature", "properties": { "Name": "Pharmacie Hay Al Jadid" }, "geometry": { "type": "Point", "coordinates": [ -5.947459386999981, 34.257162085000061 ] } },
+{ "type": "Feature", "properties": { "Name": "Pharmacie Abdelilah" }, "geometry": { "type": "Point", "coordinates": [ -5.920961071999955, 34.251145214000076 ] } },
+{ "type": "Feature", "properties": { "Name": "pharmacie Laghlalta" }, "geometry": { "type": "Point", "coordinates": [ -5.944273599999974, 34.250320500000043 ] } },
+{ "type": "Feature", "properties": { "Name": "Pharmacie Slimania" }, "geometry": { "type": "Point", "coordinates": [ -5.932492940999964, 34.25265715900008 ] } },
+{ "type": "Feature", "properties": { "Name": "Pharmacie rahma" }, "geometry": { "type": "Point", "coordinates": [ -5.934931379999966, 34.258995065000079 ] } },
+{ "type": "Feature", "properties": { "Name": "Pharmacie Jbirat" }, "geometry": { "type": "Point", "coordinates": [ -5.942291711999928, 34.263598859000069 ] } },
+{ "type": "Feature", "properties": { "Name": "Pharmacie Sidi Slimane" }, "geometry": { "type": "Point", "coordinates": [ -5.927575703999935, 34.253987507000033 ] } },
+{ "type": "Feature", "properties": { "Name": "Pharmacie Riad" }, "geometry": { "type": "Point", "coordinates": [ -5.913085505999959, 34.253607888000033 ] } },
+{ "type": "Feature", "properties": { "Name": "Pharmacie Al Mohammadia" }, "geometry": { "type": "Point", "coordinates": [ -5.908845441999972, 34.254563179000058 ] } },
+{ "type": "Feature", "properties": { "Name": "Pharmacie internationale" }, "geometry": { "type": "Point", "coordinates": [ -5.906812084999956, 34.259336884000049 ] } },
+{ "type": "Feature", "properties": { "Name": "Pharmacie  nasim" }, "geometry": { "type": "Point", "coordinates": [ -5.905060115999959, 34.263617701000044 ] } },
+{ "type": "Feature", "properties": { "Name": "Pharmacie Ibn Khaldoun" }, "geometry": { "type": "Point", "coordinates": [ -5.935807497999974, 34.262862505000044 ] } },
+{ "type": "Feature", "properties": { "Name": "Pharmacie Mansouri" }, "geometry": { "type": "Point", "coordinates": [ -5.92541044099994, 34.266276160000075 ] } },
+{ "type": "Feature", "properties": { "Name": "Pharmacie La Résistance" }, "geometry": { "type": "Point", "coordinates": [ -5.920437694999976, 34.267380512000045 ] } },
+{ "type": "Feature", "properties": { "Name": "Pharmacie Permanence" }, "geometry": { "type": "Point", "coordinates": [ -5.917241328999978, 34.26777084400004 ] } },
+{ "type": "Feature", "properties": { "Name": "Pharmacie" }, "geometry": { "type": "Point", "coordinates": [ -5.904540231999931, 34.253137572000071 ] } },
+{ "type": "Feature", "properties": { "Name": "Pharmacie Al Masjid" }, "geometry": { "type": "Point", "coordinates": [ -5.923905223999952, 34.254319566000049 ] } },
+{ "type": "Feature", "properties": { "Name": "Pharmacie Assafaa" }, "geometry": { "type": "Point", "coordinates": [ -5.919986966999943, 34.253958448000049 ] } },
+{ "type": "Feature", "properties": { "Name": "Pharmacie Menara" }, "geometry": { "type": "Point", "coordinates": [ -5.916904989999978, 34.252706587000034 ] } },
+{ "type": "Feature", "properties": { "Name": "Pharmacie Yassine" }, "geometry": { "type": "Point", "coordinates": [ -5.936747127999979, 34.269264489000079 ] } },
+{ "type": "Feature", "properties": { "Name": "Pharmacie Essalam" }, "geometry": { "type": "Point", "coordinates": [ -5.925471185999925, 34.257848386000035 ] } }
+]
+}
